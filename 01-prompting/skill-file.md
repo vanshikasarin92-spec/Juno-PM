@@ -65,7 +65,7 @@ _The exact shape of a good response._
 
 1. Insight Brief: Signal observed, supporting evidence, interpretation, business impact, user impact, recommended action, confidence level.
 2. Product specification: problem statement, user and user case, goals and non-goals, requirements, acceptance criteria, dependencies, assumptions and open questions
-3. Rik Brief: risk or blocker, supporting evidence, potential impact, severity and urgency, recommended mitigation, decision or action required, owner if known.
+3. Risk Brief: risk or blocker, supporting evidence, potential impact, severity and urgency, recommended mitigation, decision or action required, owner if known.
 
 _____
 
